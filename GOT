@@ -1,4 +1,24 @@
-#EXTINF:-1 tvg-logo="http://goo.gl/48qje9" group-title="Game of Thrones LEG",1x1LEG-Game of Thrones
+#EXTM3U
+####################################################################################################################################################
+####################################################################################################################################################
+#PLAYLISTV: pltv-logo="https://goo.gl/DCHnMq" pltv-name="" pltv-description="Atualizado: 14/9" pltv-cover="https://goo.gl/zGNGhg" pltv-author="" 
+pltv-site="" pltv-email="" pltv-phone=""
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="bit.ly/ONSeries",bit.ly/ONSeries
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://pixabay.com/static/uploads/photo/2013/07/12/13/58/warning-147699_960_720.png" group-title="Servidor",Servidor
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://pixabay.com/static/uploads/photo/2013/07/12/13/58/warning-147699_960_720.png" group-title="em manutenção!",em manutenção!
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="Informações",Sua lista de series.
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="Informações",A mais completa.
+http://myonseries.blogspot.com
+#EXTINF:-1 tvg-logo="https://goo.gl/DCHnMq" group-title="Informações",Atualizado 14/9
+http://myonseries.blogspot.com
+#################################################################################################################
+####################################################################################################################################################
+	
+##EXTINF:-1 tvg-logo="http://goo.gl/48qje9" group-title="Game of Thrones LEG",1x1LEG-Game of Thrones
 http://www.blogger.com/video-play.mp4?contentId=55a5c10ba3e7dea0
 #EXTINF:-1 tvg-logo="http://goo.gl/48qje9" group-title="Game of Thrones LEG",1x2LEG-Game of Thrones
 http://www.blogger.com/video-play.mp4?contentId=5c9b6fb24f4b9e29
